@@ -1,0 +1,69 @@
+{
+        "sqltools.connections": [
+                {
+                        "mysqlOptions": {
+                                "authProtocol": "default",
+                                "enableSsl": "Disabled"
+                        },
+                        "previewLimit": 50,
+                        "server": "localhost",
+                        "port": 3306,
+                        "driver": "MySQL",
+                        "database": "tetes",
+                        "username": "root",
+                        "name": "local mysql"
+                },
+                {
+                        "mysqlOptions": {
+                                "authProtocol": "default",
+                                "enableSsl": "Disabled"
+                        },
+                        "previewLimit": 50,
+                        "server": "localhost",
+                        "port": 3306,
+                        "driver": "MySQL",
+                        "name": "tetes",
+                        "database": "tetes",
+                        "username": "root"
+                },
+                {
+                        "mysqlOptions": {
+                                "authProtocol": "default",
+                                "enableSsl": "Disabled"
+                        },
+                        "previewLimit": 50,
+                        "server": "localhost",
+                        "port": 3306,
+                        "driver": "MySQL",
+                        "username": "root@localhost",
+                        "database": "tetes",
+                        "name": "tetes1"
+                },
+                {
+                        "mysqlOptions": {
+                                "authProtocol": "default",
+                                "enableSsl": "Disabled"
+                        },
+                        "previewLimit": 50,
+                        "server": "localhost",
+                        "port": 3306,
+                        "driver": "MariaDB",
+                        "name": "as",
+                        "database": "tetes",
+                        "username": "root"
+                },
+                {
+                        "mysqlOptions": {
+                                "authProtocol": "default",
+                                "enableSsl": "Disabled"
+                        },
+                        "previewLimit": 50,
+                        "server": "localhost",
+                        "port": 3306,
+                        "driver": "MariaDB",
+                        "name": "tetes",
+                        "database": "tetes",
+                        "username": "root"
+                }
+        ]
+}
